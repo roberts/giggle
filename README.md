@@ -1,2 +1,3 @@
-# giggle
-$GIGGLE gurls on base chain
+# $GIGGLE
+
+base is 4 $GIGGLE gurls..
